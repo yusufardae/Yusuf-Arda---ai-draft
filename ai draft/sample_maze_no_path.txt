@@ -1,0 +1,7 @@
+# Example of a valid maze where the finish cannot be reached.
+size: 5 5
+wall: 0,1
+wall: 1,0
+wall: 1,1
+wall: 3,4
+wall: 4,3
